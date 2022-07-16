@@ -1,0 +1,11 @@
+srl\neotech\requestresponse\GetElementoResponse.class
+srl\neotech\configuration\SpringBootTomcatApplication.class
+srl\neotech\requestresponse\ResponseBase.class
+srl\neotech\dao\repository\ElementoRepository.class
+srl\neotech\services\ElementoService.class
+srl\neotech\dao\ElementoDAO.class
+srl\neotech\requestresponse\RequestAddElemento.class
+srl\neotech\model\Elemento.class
+srl\neotech\controllers\ElementoAPIController.class
+srl\neotech\requestresponse\GetListaElementiResponse.class
+srl\neotech\controllers\ElementoViewController.class
