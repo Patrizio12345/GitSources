@@ -1,0 +1,10 @@
+projectJDBC\personal\RequestResponse\AddModelElementRequest.class
+projectJDBC\personal\repository\RepositoryProject.class
+projectJDBC\personal\RequestResponse\GetModelElementResponse.class
+projectJDBC\personal\services\Services.class
+projectJDBC\personal\controller\ApiController.class
+projectJDBC\personal\controller\viewController.class
+projectJDBC\personal\RequestResponse\ResponseBase.class
+projectJDBC\personal\RequestResponse\GetListOfModelElemetsResponse.class
+projectJDBC\personal\DAO\DAO.class
+projectJDBC\personal\model\Model.class
