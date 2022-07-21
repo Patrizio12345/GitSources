@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\User-01\argomentiEsameOCB\.metadata\.plugins\org.eclipse.jdt.core
+3543519689.index
+3842964386.index

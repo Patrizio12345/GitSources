@@ -1,0 +1,17 @@
+package ocb.capitoloPrimo.classi;
+
+public class ArgsRun{
+
+	
+	
+	public static void main(String[] args) {
+		  javac Animale.java
+		  java Animale Cane Gatto
+		
+		
+		
+		System.out.println(args[0]);
+		System.out.println(args[1]);
+	}
+
+}

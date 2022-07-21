@@ -1,0 +1,16 @@
+package ocb.capitoloPrimo.classi;
+
+import com.sun.tools.javac.resources.javac;
+
+public class ArgsRun {
+
+	javac Animale.java;
+	
+	public static void main(String[] args) {
+		
+		
+		System.out.println(args[0]);
+		System.out.println(args[1]);
+	}
+
+}

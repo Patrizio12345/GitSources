@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Encryption/src"/>
+	<classpathentry kind="src" path="JDBC-Project/src/main/java"/>
+	<classpathentry kind="src" path="MVN_StreamAPI/src/main/java"/>
+	<classpathentry kind="src" path="MVN_StreamDati/src/main/java"/>
+	<classpathentry kind="src" path="templates-main/templates-main/template-sb-web/src/main/java"/>
+	<classpathentry kind="src" path="templates-main/templates-main/template-sbh-ms/src/main/java"/>
+	<classpathentry kind="src" path="templates-main/templates-main/template-webApp-jdbct/src/main/java"/>
+	<classpathentry kind="lib" path="JDBC-Project/target/JDBC-Project.jar"/>
+	<classpathentry kind="lib" path="MVN_StreamAPI/target/MVN_StreamAPI-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="MVN_StreamDati/target/MVN_StreamDati-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="templates-main/templates-main/template-webApp-jdbct/target/WebAppTemplate_SJDBCT.jar"/>
+	<classpathentry kind="output" path="Encryption/target/classes"/>
+</classpath>
