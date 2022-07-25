@@ -1,0 +1,34 @@
+Creazione Jar file:
+
+jar -cvf myNewFile.jar
+jar --create --verbose --file myNewFile.jar
+
+per la creazione in una directory differente:
+
+jar -cvf myNewFile.jar -C dir
+
+
+Usando il comando -cp possiamo specificare la posizione di differenti .jar :
+
+(WINDOWS)
+java -cp ".;C:\temp\someOtherLocation;c:\temp\myJar.jar" myPackage.MyClass
+
+(mac/LINUX)
+java -cp ".:/tmp/someOtherLocation:tmp/myJar.jar" myPackage.MyClass
+
+il (.) indica che si vuole includere la dir nel cp
+windows usa (;) per separare le cp
+altri SO usano (:) per il medesimo motivo
+
+Possiamo usare la wildcard(*) per riunire tutti i jar file in un'unica dir:
+
+java -cp "C:\temp\directoryWithJars\*" myPackage.MyClasses
+
+
+
+
+
+
+
+
+

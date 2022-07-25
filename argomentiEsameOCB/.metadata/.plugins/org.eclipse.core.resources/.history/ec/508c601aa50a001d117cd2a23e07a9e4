@@ -1,0 +1,5 @@
+package ocb.capitoloPrimo.packageAndImportDeclare;
+
+public @interface CreazioneECompilingJarFile {
+
+}

@@ -1,0 +1,12 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒßé—HRMINORZ
+CODE_SMELL
+Y
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8ôš½Û¢0HRMINORZ
+CODE_SMELL
+n	java:S125?"<This block of commented-out lines of code should be removed.(³øÎ8ü§ÃÜ¢0H’RMAJORZ
+CODE_SMELL
+k	java:S106("9Replace this use of System.out or System.err by a logger.(·ûØ8¥á»Û¢0H”RMAJORZ
+CODE_SMELL
+…	java:S116J"SRename this field "sql_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÄ†ï8‡¡¸Ü¢0H•RMINORZ
+CODE_SMELL

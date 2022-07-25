@@ -1,0 +1,8 @@
+
+Œ
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(Øõ¹°8¯å‘á¢0HæRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¥Øáèÿÿÿÿÿ8¯å‘á¢0HäRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä†®ÇøÿÿÿÿHÜRMINORZ
+CODE_SMELL

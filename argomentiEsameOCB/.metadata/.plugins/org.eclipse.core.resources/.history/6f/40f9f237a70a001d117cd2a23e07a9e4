@@ -1,0 +1,17 @@
+Creazione Jar file:
+
+jar -cvf myNewFile.jar
+jar --create --verbose --file myNewFile.jar
+
+per la creazione in una directory differente:
+
+jar -cvf myNewFile.jar -C dir
+
+
+
+
+
+
+
+
+

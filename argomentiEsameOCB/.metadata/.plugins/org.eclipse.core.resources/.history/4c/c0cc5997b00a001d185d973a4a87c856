@@ -1,0 +1,17 @@
+package ocb.capitoloPrimo.tipiDiPrimitivi;
+
+public class Primitivi {
+
+ 	boolean b=false; //di default false (true/false)
+ 	byte by=123; //da -128 a 127
+ 	short s=123; //da -32,768 a 32,767
+ 	int in=1223; //da -2BI a 2BI
+ 	long ln=123L; // da -2(elevato alla63) a 2(elevato alla63)-1
+ 	float flt=123.45f;
+ 	double d=123.45;
+ 	char ch='a';
+			
+	
+	
+	
+}

@@ -1,0 +1,12 @@
+package ocb.capitoloPrimo.tipiDiPrimitivi;
+
+public class Primitivi {
+
+ 	boolean b=false; //di default false (true/false)
+ 	byte by=123; //da -128 a 127
+ 	short s=123; //da -32,768 a 32,767
+			
+	
+	
+	
+}

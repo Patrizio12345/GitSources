@@ -1,0 +1,15 @@
+package ocb.capitoloPrimo.creazioneDiUnOggetto;
+
+public class Oggetto {
+
+	
+	//istanza di una classe
+	Oggetto o=new Oggetto();
+	
+	//costruttore=tipologia speciale di metodo che permette la creazione di un nuovo oggetto
+	public Oggetto() {
+		System.out.println("sono_nel_costruttore");
+	}
+	
+	
+}

@@ -1,0 +1,10 @@
+package ocb.capitoloPrimo.packageAndImportDeclare;
+
+public class MultiPackage {
+
+	public static void main(String[] args) {
+	
+
+	}
+
+}

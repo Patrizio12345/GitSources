@@ -1,0 +1,23 @@
+package ocb.capitoloPrimo.packageAndImportDeclare;
+/*pckg dell'attuale classe
+ * 
+ * 
+ * 
+ * 
+ * pckg della classe importata con il nome della classe
+ */
+
+import ocb.capitoloPrimo.packageForMulti.MultiPackageA;
+
+
+	public class MultipackageB{
+	public static void main(String[] args) {
+	
+		//classe importata tramite pckging
+		MultiPackageA a;
+		
+		System.out.println("multi_packeging_accomplished");
+
+	}
+
+}

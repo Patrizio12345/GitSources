@@ -1,0 +1,9 @@
+package ocb.capitoloPrimo.creazioneDiUnOggetto;
+
+public class Oggetto {
+
+	Oggetto o=new Oggetto();
+	
+	
+	
+}

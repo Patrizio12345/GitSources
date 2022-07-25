@@ -1,0 +1,10 @@
+package ocb.capitoloPrimo.creazioneDiUnOggetto;
+
+public class Egg {
+    numero=5;
+	public static void main(String[] args) {
+		Egg egg=new Egg();
+
+	}
+
+}

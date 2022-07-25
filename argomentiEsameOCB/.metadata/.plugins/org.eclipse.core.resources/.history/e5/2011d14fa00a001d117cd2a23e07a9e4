@@ -1,0 +1,16 @@
+package ocb.capitoloPrimo.packageAndImportDeclare;
+
+
+import ocb.capitoloPrimo.packageForMulti.MultiPackageA;
+
+
+	public class MultipackageB{
+	public static void main(String[] args) {
+	
+		MultiPackageA a;
+		
+		System.out.println("multi_packeging_accomplished");
+
+	}
+
+}

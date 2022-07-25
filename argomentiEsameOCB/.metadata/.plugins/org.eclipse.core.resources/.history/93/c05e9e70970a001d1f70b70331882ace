@@ -1,0 +1,32 @@
+package ocb.capitoloPrimo.packageAndImportDeclare;
+
+//l'import seguente importa la singola classe
+import java.util.Random;
+
+//l'import seguente importa tutte le classi presenti nel package
+import java.util.*;
+
+/* il pckg java.lang, è importato automaticamente , quindi
+ * utilizzare java.lang.System o java.lang.* è inutile e ridondante.
+ * Se noi avessimo in questa classe , sotto questo package:
+ * 
+ * import java.lang.System
+ * import java.lang.*
+ * import java.util.Random
+ * import java.util.*
+ * 
+ * sarebbe funzionale esclusivamente import java.util.*, poichè i primi 2 import
+ * sono automatici, mentre il .Random, è già presente nel pckg .util.*,
+ * ergo, i primi 3 sarebbero ridondanti.
+ * 
+ */
+public class Wildcards {
+
+	public static void main(String[] args) {
+	
+		Random r=new Random();
+		System.out.println(r.nextInt(10));
+
+	}
+
+}

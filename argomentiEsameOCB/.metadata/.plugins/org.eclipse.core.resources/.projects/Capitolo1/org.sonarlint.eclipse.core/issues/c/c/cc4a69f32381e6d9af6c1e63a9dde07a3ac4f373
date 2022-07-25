@@ -1,0 +1,14 @@
+
+“	java:S116"\Rename this field "variabile_cognome" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤­ùûüÿÿÿÿ8î†Îà¢0H¬RMINORZ
+CODE_SMELL
+’	java:S116"[Rename this field "elementi_oggetto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™–ùÿÿÿÿ8ñ¹à¢0HªRMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é©Óğıÿÿÿÿ8ØÂµà¢0H¨RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä†®ÇøÿÿÿÿH¦RMINORZ
+CODE_SMELL
+Š	java:S116
+"YRename this field "variabile_nome" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şŒÒR8î†Îà¢0H«RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(²¹Üİúÿÿÿÿ8ØÂµà¢0H©RMAJORZ
+CODE_SMELL

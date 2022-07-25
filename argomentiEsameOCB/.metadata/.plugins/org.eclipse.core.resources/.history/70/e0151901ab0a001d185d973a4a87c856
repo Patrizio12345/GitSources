@@ -1,0 +1,15 @@
+package ocb.capitoloPrimo.creazioneDiUnOggetto;
+
+public class LetturaEScritturaAttributiPerUnOggetto {
+
+	int elementiOggetto=10;
+	
+	public static void main(String[] args) {
+           
+		LetturaEScritturaAttributiPerUnOggetto creazione_oggetto=new LetturaEScritturaAttributiPerUnOggetto();
+		creazione_oggetto.elementiOggetto=1;
+		System.out.println(creazione_oggetto.elementiOggetto);
+
+	}
+
+}

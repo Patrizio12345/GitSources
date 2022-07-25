@@ -2,4 +2,14 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="ocb.capitoloPrimo.classi.Animale"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.resources.javac"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="ocb.capitoloPrimo.packageAndImportDeclare.MultiPackage"/>
+    <fullyQualifiedTypeName name="ocb.capitoloPrimo.packageForMulti.MultiPackageA"/>
+    <fullyQualifiedTypeName name="ocb.capitoloPrimo.creazioneDiUnOggetto.Oggetto"/>
+    <fullyQualifiedTypeName name="ocb.capitoloPrimo.creazioneDiUnOggetto.LetturaEScritturaAttributiPerUnOggetto"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="ocb.capitoloPrimo.creazioneDiUnOggetto.Egg"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="java.lang.Byte"/>
 </qualifiedTypeNameHistroy>
